@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color:lavender;
+    font-family: "Roboto", sans-serif;
+}
+.container
+{
+max-width: 1000px;
+background-color:lavender;
+margin: 0 auto;
+padding: 20px;
+}
+
+header
+{
+
+}
+.profile-image
+{
+   width: 100px;
+   height: 120px;
+   border: 3px solid black;
+   
+}
+h1,h2,h3,h4,h5,h6
+{
+   color: rgba(11, 152, 240, 0.966);
+}
+
+hr
+{
+    border: solid black 2px;
+    width: 100%;
+    margin: 10px auto;
+    border-bottom: none ;
+}
+
+#personal-section
+{
+
+}
+.content
+{
+ margin-bottom: 30px;
+}
+.left-div
+{
+ width: 30%;
+ float: left;
+}
+.right-div
+{
+ width: 70%;
+ float:left;
+}
+.common-hr
+{
+  border :solid black 1px;
+  border-bottom: none;
+  width:100%;
+  margin: 20px auto;
+  
+}
+.edu-template-left
+{
+  float:left;
+  width:45%;
+}
+.edu-template-right
+{
+  float:right;
+  width:45%;
+}
+
